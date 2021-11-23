@@ -10,7 +10,7 @@ export default function Home() {
         <h1>this is an instagram build</h1>
         {/*header*/}
         {/*feed*/}
-        {/*Model*/}
+        {/*/}
 
     </div>
   )
