@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import {} from '@heroicons/react'
 function Header() {
     return (
         <div>
@@ -26,7 +27,7 @@ function Header() {
                 {/* middle - search input field*/}
                 <div>
                     <div>
-                        
+
                     </div>
                     <input type="text" placeholder="search" />
                 </div>
