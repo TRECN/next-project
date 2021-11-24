@@ -9,6 +9,7 @@ function Header() {
                     <Image
                     src="https://links.papareact.com/ocw" 
                     layout="fill"
+                    objectFit='contain'
                     />
 
                 </div>
