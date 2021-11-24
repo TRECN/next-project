@@ -13,7 +13,7 @@ function Header() {
         <div>
             <div className='flex justify-between max-w-6xl'>
                 {/* left - logo*/}
-                <div className='relative hidden lg:inline-grid w-24 h-24'>
+                <div className='relative hidden lg:inline-grid w-24'>
                     {/* Image is a next.js tag  */}
                     <Image
                     src="https://links.papareact.com/ocw" 
@@ -22,7 +22,7 @@ function Header() {
                     />
 
                 </div>
-                <div className='relative w-10 h-10 lg:hidden flex-shrink-0
+                <div className='relative w-10 lg:hidden flex-shrink-0
                 cursor-pointer'>
                     <Image
                     src="https://links.papareact.com/jjm" 
@@ -33,11 +33,11 @@ function Header() {
                 </div>
        
                 {/* middle - search input field*/}
-                <div>
+                <div className='relative mt-1 p-3 rounded-md bg-red-500'>
                     <div className='absolute inset-y-0 pl-3 flex items-center pointer-events-none'>
                         <SearchIcon className='h-5 w-5 text-gray-400'/>
                     </div>
-                    <input type="text" placeholder="search" />
+                    <input className type="text" placeholder="search" />
                 </div>
                 {/* right */}
 
