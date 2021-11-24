@@ -6,6 +6,7 @@ function Header() {
 
             {/* left */}
             <div>
+                {/* Image is a next.js tag  */}
                 <Image
                 src="https://links.papareact.com/ocw" 
                 layout="fill"
