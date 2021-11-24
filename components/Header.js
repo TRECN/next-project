@@ -7,7 +7,7 @@ import {
     PaperAirplaneIcon,
     MenuIcon
 
-} from '@heroicons/react'
+} from '@heroicons/react/outline'
 function Header() {
     return (
         <div>
