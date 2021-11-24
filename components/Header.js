@@ -13,7 +13,8 @@ function Header() {
                     />
 
                 </div>
-                <div className='relative w-10 h-10 lg:hidden flex-shrink-0'>
+                <div className='relative w-10 h-10 lg:hidden flex-shrink-0
+                cursor-pointer'>
                     <Image
                     src="https://links.papareact.com/jjm" 
                     layout="fill"
