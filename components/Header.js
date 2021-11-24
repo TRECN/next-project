@@ -23,7 +23,13 @@ function Header() {
 
                 </div>
        
-                {/* middle - search*/}
+                {/* middle - search input field*/}
+                <div>
+                    <div>
+                        
+                    </div>
+                    <input type="text" placeholder="search" />
+                </div>
                 {/* right */}
 
             </div>
