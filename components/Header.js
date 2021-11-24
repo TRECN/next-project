@@ -13,7 +13,7 @@ function Header() {
                     />
 
                 </div>
-                <div>
+                <div className='relative w-10 h-10 lg:hidden flex-shrink-0'>
                     <Image
                     src="https://links.papareact.com/jjm" 
                     layout="fill"
