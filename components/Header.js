@@ -35,7 +35,7 @@ function Header() {
                 {/* middle - search input field*/}
                 <div>
                     <div>
-
+                        <SearchIcon />
                     </div>
                     <input type="text" placeholder="search" />
                 </div>
