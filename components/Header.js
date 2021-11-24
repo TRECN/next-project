@@ -12,7 +12,7 @@ import {HomeIcon} from '@heroicons/react/solid'
 function Header() {
     return (
         <div>
-            <div className='flex justify-between max-w-6xl'>
+            <div className='flex justify-between max-w-6xl mx-10 xl:mx-auto '>
                 {/* left - logo*/}
                 <div className='relative hidden lg:inline-grid w-24'>
                     {/* Image is a next.js tag  */}
