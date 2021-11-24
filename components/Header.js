@@ -1,5 +1,13 @@
 import Image from 'next/image'
-import {} from '@heroicons/react'
+import {
+    SearchIcon,
+    PlusCircleIcon,
+    UserGroupIcon,
+    HeartIcon,
+    PaperAirplaneIcon,
+    MenuIcon
+
+} from '@heroicons/react'
 function Header() {
     return (
         <div>
