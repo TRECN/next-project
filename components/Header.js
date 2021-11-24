@@ -5,7 +5,7 @@ function Header() {
             <h1>This is the header</h1> 
 
             {/* left */}
-            <div>
+            <div className='relative'>
                 {/* Image is a next.js tag  */}
                 <Image
                 src="https://links.papareact.com/ocw" 
