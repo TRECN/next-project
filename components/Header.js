@@ -4,7 +4,7 @@ function Header() {
         <div>
             <div className='flex justify-between max-w-6xl'>
                 {/* left */}
-                <div className='relative w-24 h-24'>
+                <div className='relative hidden lg:inline-grid w-24 h-24'>
                     {/* Image is a next.js tag  */}
                     <Image
                     src="https://links.papareact.com/ocw" 
