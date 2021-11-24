@@ -33,11 +33,12 @@ function Header() {
                 </div>
        
                 {/* middle - search input field*/}
-                <div className='relative mt-1 p-3 rounded-md bg-red-500'>
+                <div className='relative mt-1 p-3 rounded-md '>
                     <div className='absolute inset-y-0 pl-3 flex items-center pointer-events-none'>
                         <SearchIcon className='h-5 w-5 text-gray-400'/>
                     </div>
-                    <input className type="text" placeholder="search" />
+                    <input className='bg-gray-50 block w-full pl-10 sm:text-sm
+                    border-gray focus:border-black focus: ring-black' type="text" placeholder="Search" />
                 </div>
                 {/* right */}
 
