@@ -13,6 +13,14 @@ function Header() {
                     />
 
                 </div>
+                <div>
+                    <Image
+                    src="https://links.papareact.com/jjm" 
+                    layout="fill"
+                    objectFit='contain'
+                    />
+
+                </div>
        
                 {/* middle */}
                 {/* right */}
