@@ -44,7 +44,7 @@ function Header() {
                     </div>
                 </div>
                 {/* right */}
-
+                <HomeIcon className='h-10 w-10'/>
             </div>
         </div>
        
