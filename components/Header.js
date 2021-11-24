@@ -2,20 +2,23 @@ import Image from 'next/image'
 function Header() {
     return (
         <div>
-            <h1>This is the header</h1> 
+            <div className='flex'>
+                {/* left */}
+                <div className='relative w-24'>
+                    {/* Image is a next.js tag  */}
+                    <Image
+                    src="https://links.papareact.com/ocw" 
+                    layout="fill"
+                    />
 
-            {/* left */}
-            <div className='relative'>
-                {/* Image is a next.js tag  */}
-                <Image
-                src="https://links.papareact.com/ocw" 
-                layout="fill"
-                />
+                </div>
+                
+                {/* middle */}
+                {/* right */}
+
             </div>
-            {/* middle */}
-            {/* right */}
-
         </div>
+       
     )
 }
 
