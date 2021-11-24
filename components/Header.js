@@ -34,8 +34,8 @@ function Header() {
        
                 {/* middle - search input field*/}
                 <div>
-                    <div>
-                        <SearchIcon />
+                    <div className='absolute inset-y-0 pl-3 flex items-center pointer-events-none'>
+                        <SearchIcon className='h-5 w-5 text-gray-400'/>
                     </div>
                     <input type="text" placeholder="search" />
                 </div>
