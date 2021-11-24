@@ -38,7 +38,7 @@ function Header() {
                         <SearchIcon className='h-5 w-5 text-gray-400'/>
                     </div>
                     <input className='bg-gray-50 block w-full pl-10 sm:text-sm
-                    border-gray focus:border-black focus: ring-black' type="text" placeholder="Search" />
+                    border-gray-300 focus:border-black focus: ring-black rounded-md' type="text" placeholder="Search" />
                 </div>
                 {/* right */}
 
