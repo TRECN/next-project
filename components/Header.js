@@ -3,7 +3,7 @@ function Header() {
     return (
         <div>
             <div className='flex justify-between max-w-6xl'>
-                {/* left */}
+                {/* left - logo*/}
                 <div className='relative hidden lg:inline-grid w-24 h-24'>
                     {/* Image is a next.js tag  */}
                     <Image
@@ -23,7 +23,7 @@ function Header() {
 
                 </div>
        
-                {/* middle */}
+                {/* middle - search*/}
                 {/* right */}
 
             </div>
