@@ -48,8 +48,7 @@ function Header() {
                     <MenuIcon className='h-6 md:hidden'/>
                 </div>
             </div>
-        </div>
-       
+        </div>   
     )
 }
 
