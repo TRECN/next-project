@@ -6,7 +6,9 @@ function Header() {
 
             {/* left */}
             <div>
-                <Image/>
+                <Image
+                src="https://links.papareact.com/ocw"
+                />
             </div>
             {/* middle */}
             {/* right */}
