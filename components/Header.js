@@ -30,7 +30,6 @@ function Header() {
                     objectFit='contain'
                     />
                 </div>
-       
                 {/* middle - search input field*/}
                 <div className='max-w-xs '>
                     <div className='relative mt-1 p-3 rounded-md '>
