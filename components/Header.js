@@ -20,7 +20,6 @@ function Header() {
                     layout="fill"
                     objectFit='contain'
                     />
-
                 </div>
                 <div className='relative w-10 lg:hidden flex-shrink-0
                 cursor-pointer'>
