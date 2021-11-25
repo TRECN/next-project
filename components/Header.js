@@ -29,7 +29,6 @@ function Header() {
                     layout="fill"
                     objectFit='contain'
                     />
-
                 </div>
        
                 {/* middle - search input field*/}
