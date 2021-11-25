@@ -7,7 +7,6 @@ import {
     PaperAirplaneIcon,
     MenuIcon
 } from '@heroicons/react/outline';
-import {HomeIcon} from '@heroicons/react/solid'
 function Header() {
     return (
         <div>
