@@ -41,9 +41,9 @@ function Header() {
                 </div>
                 {/* right */}
                 <div className='flex items-center justify-end space-x-4 '>
-                    <HomeIcon className='h-10 w-10 hidden md:inline'/>
+                    <HomeIcon className='navBtn'/>
                     <MenuIcon className='h-6 md:hidden cursor-pointer'/>
-                    <PaperAirplaneIcon/>
+                    <PaperAirplaneIcon className='navBtn'/>
                 </div>
             </div>
         </div>   
