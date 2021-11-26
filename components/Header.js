@@ -47,7 +47,8 @@ function Header() {
                     <div className='relative navBtn'>
                         <PaperAirplaneIcon className='navBtn'/>
                         <div className='absolute -top-1 -right-2 rounded-full 
-                        text-xs w-5 h-5 bg-red-500 flex items-center justify-center'>
+                        text-xs w-5 h-5 bg-red-500 flex items-center justify-center animate-pulse
+                        text-white'>
                             3
                         </div>
 
