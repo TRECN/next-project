@@ -4,6 +4,7 @@
 
 @layer components{
     .navBtn{
-        @apply hidden h-6 md:inline-flex cursor-pointer;
+        @apply hidden h-6 md:inline-flex cursor-pointer
+        hover:scale-100;
     }
 }
