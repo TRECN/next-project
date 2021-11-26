@@ -44,7 +44,7 @@ function Header() {
                     <HomeIcon className='navBtn'/>
                     <MenuIcon className='h-6 md:hidden cursor-pointer'/>
                     
-                    <div>
+                    <div className='relative navBtn'>
                         <PaperAirplaneIcon className='navBtn'/>
 
                     </div>
