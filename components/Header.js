@@ -45,7 +45,7 @@ function Header() {
                     <MenuIcon className='h-6 md:hidden cursor-pointer'/>
                     
                     <div className='relative navBtn'>
-                        <PaperAirplaneIcon className='navBtn'/>
+                        <PaperAirplaneIcon className='navBtn rotate-45'/>
 
                     </div>
 
