@@ -47,6 +47,9 @@ function Header() {
                     <PlusCircleIcon className='navBtn'/>
                     <UserGroupIcon className='navBtn'/>
                     <HeartIcon className='navBtn'/>
+
+                    <img src="https://links.papareact.com/ocw" alt="profile pic" 
+                    className=''/>
                 </div>
             </div>
         </div>   
