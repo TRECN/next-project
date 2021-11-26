@@ -46,7 +46,7 @@ function Header() {
                     
                     <div className='relative navBtn'>
                         <PaperAirplaneIcon className='navBtn rotate-45'/>
-                        <div className='absolute -top-2'>
+                        <div className='absolute -top-2 right-0'>
                             3
                         </div>
 
