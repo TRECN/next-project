@@ -46,6 +46,7 @@ function Header() {
                     <PaperAirplaneIcon className='navBtn'/>
                     <PlusCircleIcon className='navBtn'/>
                     <UserGroupIcon className='navBtn'/>
+                    <HeartIcon className='navBtn'/>
                 </div>
             </div>
         </div>   
