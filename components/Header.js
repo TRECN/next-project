@@ -49,7 +49,7 @@ function Header() {
                     <HeartIcon className='navBtn'/>
 
                     <img src="https://links.papareact.com/ocw" alt="profile pic" 
-                    className=''/>
+                    className='h-6 rounded-full cursor-pointer'/>
                 </div>
             </div>
         </div>   
