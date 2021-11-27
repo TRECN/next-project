@@ -21,7 +21,7 @@ function Header() {
                     objectFit='contain'
                     />
                 </div>
-                <div className='relative w-10 lg:hidden flex-shrink-0
+                <div ='relative w-10 lg:hidden flex-shrink-0
                 cursor-pointer'>
                     <Image
                     src="https://links.papareact.com/jjm" 
