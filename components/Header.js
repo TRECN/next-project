@@ -47,7 +47,8 @@ function Header() {
                         <PaperAirplaneIcon className='rotate-45'/>
                         <div className='absolute -top-1 -right-2 rounded-full 
                         text-xs w-5 h-5 bg-red-500 flex items-center justify-center animate-pulse
-                        text-white'>3</div>
+                        text-white'>3
+                        </div>
                     </div>
                     <PlusCircleIcon className='navBtn'/>
                     <UserGroupIcon className='navBtn'/>
