@@ -7,6 +7,7 @@ import {
     PaperAirplaneIcon,
     MenuIcon
 } from '@heroicons/react/outline';
+import {HomeIcon} from '@heroicons/react/solid'
 function Header() {
     return (
         <div className='shadow-sn border-b bg-white sticky top-0 z-10'>
