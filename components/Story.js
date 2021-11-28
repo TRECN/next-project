@@ -1,4 +1,4 @@
-function Story() {
+function Story({img, username}) {
     return (
         <div>
             
