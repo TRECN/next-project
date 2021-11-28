@@ -1,5 +1,6 @@
 import faker from 'faker'
 import { useEffect, useState } from 'react'
+import {Story} from './Story'
 function Stories() {
 
     const [suggestions,setSuggestions]=useState([]);
