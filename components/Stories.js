@@ -23,7 +23,7 @@ function Stories() {
                username={profile.username}
                /> 
             ))}
-            lkjfkljdsflk
+            
         </div>
     )
 }
