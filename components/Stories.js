@@ -1,3 +1,4 @@
+import faker from 'faker'
 function Stories() {
     return (
         <div>
