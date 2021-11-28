@@ -2,7 +2,7 @@ import Stories from "./Stories"
 
 function Feed() {
     return (
-        <main className='grid grid-cols-1'>
+        <main className='grid grid-cols-1 md:grid-cols-2'>
             {/* Section Left*/}
             <section>
                 {/* Stories */}
