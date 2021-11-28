@@ -1,6 +1,6 @@
 import faker from 'faker'
 import { useEffect, useState } from 'react'
-import {Story} from './Story'
+import Story from './Story'
 function Stories() {
 
     const [suggestions,setSuggestions]=useState([]);
@@ -15,7 +15,7 @@ function Stories() {
     },[])
 
     return (
-        <div>
+        <div className='flex space-x-2 p-6'>
             {suggestions.map((profile)=>(
                <Story 
                key={profile.id} 
@@ -23,6 +23,7 @@ function Stories() {
                username={profile.username}
                /> 
             ))}
+            lkjfkljdsflk
         </div>
     )
 }
