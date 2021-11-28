@@ -11,6 +11,7 @@ export default function Home() {
         {/*header*/}
         <Header/>
         {/*feed*/}
+        <Feed/>
 
         {/*Model*/}
 
