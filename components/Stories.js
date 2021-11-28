@@ -23,13 +23,6 @@ function Stories() {
                username={profile.username}
                /> 
             ))}
-            {/* stories */}
-
-            {/* stories */}
-            {/* stories */}
-            {/* stories */}
-            {/* stories */}
-            {/* stories */}
         </div>
     )
 }
