@@ -15,7 +15,11 @@ function Stories() {
 
     return (
         <div>
+            {suggestions.map(profile=>(
+               <Story key={profile.id}/> 
+            ))}
             {/* stories */}
+
             {/* stories */}
             {/* stories */}
             {/* stories */}
