@@ -1,9 +1,8 @@
 function Feed() {
     return (
         <div>
-            {/* section left */}
-            
-            {/* section Right */}
+            {/* Section Left*/}
+                {/* Stories */}
 
         </div>
     )
