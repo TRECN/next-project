@@ -1,12 +1,15 @@
 import faker from 'faker'
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 function Stories() {
+
+    const [suggestions,setSuggestions]=useState();
 
     useEffect(()=>{
         const Suggestions = [...Array(20)].map((_,i)=>({
             ...faker.helpers.contextualCard(),
             id: i,
         }))
+        console.log(Suggestions)
     },[])
 
     return (
