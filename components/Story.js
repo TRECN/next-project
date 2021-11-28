@@ -6,6 +6,7 @@ function Story({img, username}) {
            className='h-4 w-4'
            src={img}
            layout='fill'
+           objectFit='contain'
            />
            <p>{username}</p>
         </div>
