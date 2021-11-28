@@ -3,7 +3,11 @@ function Feed() {
         <div>
             {/* Section Left*/}
                 {/* Stories */}
+                {/* Feed */}
 
+            {/* Section Right */}
+                {/* MiniProfiles */}
+                {/* Suggestions */}
         </div>
     )
 }
