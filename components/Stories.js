@@ -3,8 +3,11 @@ import { useEffect } from 'react'
 function Stories() {
 
     useEffect(()=>{
-        
-    })
+        const Suggestions = [...Array(20)].map((_,i)=>({
+
+        })
+        )
+    },[])
 
     return (
         <div>
