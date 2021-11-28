@@ -1,7 +1,10 @@
+import Image from "next/image";
 function Story({img, username}) {
     return (
         <div>
-           <img src={img} alt="" /> 
+           <Image
+           src={img}
+           />
            <p>{username}</p>
         </div>
     );
