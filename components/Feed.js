@@ -1,7 +1,10 @@
 function Feed() {
     return (
         <div>
+            {/* section left */}
             
+            {/* section Right */}
+
         </div>
     )
 }
