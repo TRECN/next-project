@@ -1,6 +1,6 @@
 module.exports={
     images:{
         domains:['links.papareact.com'
-    ,'cdn.fakercloud.com']
+    ,'edia-exp1.licdn.com']
     },
 };
