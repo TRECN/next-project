@@ -1,13 +1,8 @@
 import Image from "next/image";
 function Story({img, username}) {
     return (
-        <div>
-           <Image
-           className='h-4 w-4'
-           src={img}
-           layout='fill'
-           objectFit='contain'
-           />
+        <div >
+           <img src={img} alt="" />
            <p>{username}</p>
         </div>
     );
