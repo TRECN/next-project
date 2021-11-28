@@ -1,14 +1,21 @@
 function Feed() {
     return (
-        <div>
+        <main>
             {/* Section Left*/}
+            <section>
                 {/* Stories */}
                 {/* Feed */}
 
+            </section>
+                
+
             {/* Section Right */}
+            <section>
                 {/* MiniProfiles */}
                 {/* Suggestions */}
-        </div>
+            </section>
+                
+        </main>
     )
 }
 
