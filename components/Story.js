@@ -4,7 +4,7 @@ function Story({img, username}) {
            <img src={img} alt="" /> 
            <p>{username}</p>
         </div>
-    )
+    );
 }
 
 export default Story
