@@ -5,7 +5,6 @@ function Feed() {
             <section>
                 {/* Stories */}
                 {/* Feed */}
-
             </section>
                 
 
