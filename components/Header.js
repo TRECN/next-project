@@ -29,33 +29,7 @@ function Header() {
                     objectFit='contain'
                     />
                 </div>
-                {/* middle - search input field*/}
-                <div className='max-w-xs '>
-                    <div className='relative mt-1 p-3 rounded-md '>
-                        <div className='absolute inset-y-0 pl-3 flex items-center pointer-events-none'>
-                            <SearchIcon className='h-5 w-5 text-gray-400'/>
-                        </div>
-                        <input className='bg-gray-50 block w-full pl-10 sm:text-sm
-                        border-gray-300 focus:border-black focus: ring-black rounded-md' type="text" placeholder="Search" />
-                    </div>
-                </div>
-                {/* right */}
-                <div className='flex items-center justify-end space-x-4 '>
-                    <HomeIcon className='navBtn'/>
-                    <MenuIcon className='h-6 md:hidden cursor-pointer'/>
-                    <div className='relative navBtn -top-1'>
-                        <PaperAirplaneIcon className='rotate-45'/>
-                        <div className='absolute -top-1 -right-2 rounded-full 
-                        text-xs w-5 h-5 bg-red-500 flex items-center justify-center animate-pulse
-                        text-white'>3
-                        </div>
-                    </div>
-                    <PlusCircleIcon className='navBtn'/>
-                    <UserGroupIcon className='navBtn'/>
-                    <HeartIcon className='navBtn'/>
-                    <img src="https://media-exp1.licdn.com/dms/image/C5603AQF8Ig-OMxb8ng/profile-displayphoto-shrink_200_200/0/1618815249650?e=1639612800&v=beta&t=QBWC4GzCZYL7LwJToeQwqN9yIsF_CArs6nvjcSqVfn4" alt="profile pic" 
-                    className='h-10 w-10 rounded-full cursor-pointer border-black border-2'/>
-                </div>
+               
             </div>
         </div>   
     )
