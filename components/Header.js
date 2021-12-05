@@ -21,14 +21,6 @@ function Header() {
                     objectFit='contain'
                     />
                 </div>
-                <div className='relative w-10 lg:hidden flex-shrink-0
-                cursor-pointer'>
-                    <Image
-                    src="https://links.papareact.com/jjm" 
-                    layout="fill"
-                    objectFit='contain'
-                    />
-                </div>
                 {/* middle - search input field*/}
                 <div className='max-w-xs '>
                     <div className='relative mt-1 p-3 rounded-md '>
