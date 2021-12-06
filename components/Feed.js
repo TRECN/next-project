@@ -13,7 +13,11 @@ function Feed() {
             </section>
                 
 
-           
+            {/* Section Right */}
+            <section>
+                {/* MiniProfiles */}
+                {/* Suggestions */}
+            </section>
                 
         </main>
     )
