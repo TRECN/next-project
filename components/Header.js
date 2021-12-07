@@ -50,12 +50,7 @@ function Header() {
                         text-white'>3
                         </div>
                     </div>
-                    <PlusCircleIcon className='navBtn'/>
-                    <UserGroupIcon className='navBtn'/>
-                    <HeartIcon className='navBtn'/>
-                    <img src="https://media-exp1.licdn.com/dms/image/C5603AQF8Ig-OMxb8ng/profile-displayphoto-shrink_200_200/0/1618815249650?e=1639612800&v=beta&t=QBWC4GzCZYL7LwJToeQwqN9yIsF_CArs6nvjcSqVfn4" alt="profile pic" 
-                    className='h-10 w-10 rounded-full cursor-pointer border-black border-2'/>
-                </div>
+                    <Pl
             </div>
         </div>   
     )
