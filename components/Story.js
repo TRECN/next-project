@@ -8,7 +8,10 @@ function Story({img, username}) {
                 layout='fill'
                 objectFit='contain'
                />
-         
+           </div>
+           <p>{username}</p>
+        </div>
+    );
 }
 
 export default Story
