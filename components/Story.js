@@ -2,7 +2,7 @@ import Image from "next/image";
 function Story({img, username}) {
     return (
         <div >
-           <div className='relative w-10 h-10'>
+           <div className='relative w-14 h-14'>
                <Image
                 src={img}
                 layout='fill'
