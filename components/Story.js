@@ -9,7 +9,7 @@ function Story({img, username}) {
                 objectFit='contain'
                />
            </div>
-           <p>{username}</p>
+           <p className="text-xs">{username}</p>
         </div>
     );
 }
