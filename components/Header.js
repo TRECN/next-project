@@ -15,7 +15,11 @@ function Header() {
                 {/* left - logo*/}
                 <div className='relative hidden lg:inline-grid w-24'>
                     {/* Image is a next.js tag  */}
-                    
+                    <Image
+                    src="https://links.papareact.com/ocw" 
+                    layout="fill"
+                    objectFit='contain'
+                    />
                 </div>
                 <div className='relative w-10 lg:hidden flex-shrink-0
                 cursor-pointer'>
