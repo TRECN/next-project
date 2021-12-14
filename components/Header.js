@@ -39,9 +39,7 @@ function Header() {
                         border-gray-300 focus:border-black focus: ring-black rounded-md' type="text" placeholder="Search" />
                     </div>
                 </div>
-                {/* right */}
-                <div className='flex items-center justify-end space-x-4 '>
-                    <HomeIcon className='navBtn'/>
+                <HomeIcon className='navBtn'/>
                     <MenuIcon className='h-6 md:hidden cursor-pointer'/>
                     <div className='relative navBtn -top-1'>
                         <PaperAirplaneIcon className='rotate-45'/>
