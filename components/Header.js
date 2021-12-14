@@ -41,8 +41,7 @@ function Header() {
                 </div>
                 {/* right */}
                 <div className='flex items-center justify-end space-x-4 '>
-                    <HomeIcon className='navBtn'/>
-                    <MenuIcon className='h-6 md:hidden cursor-pointer'/>
+                    
                     <div className='relative navBtn -top-1'>
                         <PaperAirplaneIcon className='rotate-45'/>
                         <div className='absolute -top-1 -right-2 rounded-full 
