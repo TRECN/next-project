@@ -11,7 +11,8 @@ function Stories() {
             id: i,
         }))
         setSuggestions(suggestions)
-        
+        console.log(suggestions)
+    },[])
 
     return (
         <div className='flex space-x-2 p-6 bg-white mt-8 border-gray-200
